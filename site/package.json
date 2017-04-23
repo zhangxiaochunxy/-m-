@@ -1,0 +1,16 @@
+{
+  "name": "ex_express",
+  "version": "1.0.0",
+  "description": "excise node express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zxc",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "express": "^4.15.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
